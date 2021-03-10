@@ -1,4 +1,4 @@
-package steps;
+package steps.com.ebaysteps;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -7,8 +7,8 @@ import io.cucumber.java.en.When;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import pages.EbayHomePage;
-import pages.EbaySearchResultsPage;
+import pages.com.ebaypages.EbayHomePage;
+import pages.com.ebaypages.EbaySearchResultsPage;
 import utils.ConfigReader;
 import utils.Driver;
 

@@ -1,4 +1,4 @@
-package pages;
+package pages.com.ebaypages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
